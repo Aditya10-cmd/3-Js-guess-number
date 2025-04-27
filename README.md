@@ -2,6 +2,7 @@
 </br>
 </br>
 📋 Description:
+</br>
 A fun number guessing game where the player must guess a random number between 1 and 100. 🎯
 </br>
 The player gets a maximum of 10 attempts to find the correct number. 🎲

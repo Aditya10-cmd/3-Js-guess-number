@@ -3,8 +3,11 @@
 </br>
 📋 Description:
 A fun number guessing game where the player must guess a random number between 1 and 100. 🎯
+</br>
 The player gets a maximum of 10 attempts to find the correct number. 🎲
+</br>
 After each guess, the game gives feedback whether the guess is too high or too low. 📈📉
+</br>
 If the player guesses correctly or runs out of moves, the game ends and shows a message. 🏁
 </br>
 </br>
